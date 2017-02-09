@@ -1,0 +1,10 @@
+Metadata-Version: 0.1
+Name: iot_jumpway_mqtt_serial
+Version: 0.0.1
+Summary: IoT JumpWay Python MQTT Serial Client
+Home-page: https://github.com/TechBubbleTechnologies/IoT-JumpWay-Python-MQTT-Serial-Client
+Author: Adam Milton-Barker
+Author-email: adammiltonbarker@gmail.com
+License: BSD
+Description: Python MQTT client library that allows developers to communicate with the TechBubble IoT JumpWay MQTT Broker via serial for devices that have no internet connectivity.
+Platform: UNKNOWN

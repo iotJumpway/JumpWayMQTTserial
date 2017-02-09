@@ -1,0 +1,20 @@
+{
+	"IoTJumpWaySettings": {
+        "SystemLocation": 0,
+        "SystemZone": 0,
+        "SystemDeviceID": 0,
+        "SystemDeviceName" : "Your Device Name",
+        "SystemDeviceCom" : "Your Device Com Port"
+    },
+	"Sensors": {},
+	"Actuators": {
+        "LED": {
+            "ID": 0,
+            "PIN": 5
+        }
+    },
+	"IoTJumpWayMQTTSettings": {
+        "MQTTUsername": "Your Device MQTT Username",
+        "MQTTPassword": "Your Device MQTT PASSWORD"
+    }
+}
